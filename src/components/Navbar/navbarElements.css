@@ -1,0 +1,22 @@
+.navContainer{
+    background-color: blue;    
+}
+
+.nav{
+    display: flex;
+    flex-direction:row ;
+    justify-content:start;
+    padding-top:.0.5%;
+    padding-bottom: 0.5%; 
+}
+
+.nav p{
+    margin-left: 1em;
+    color: white;
+    display: flex;
+    flex-direction:row ;
+    justify-content:center;
+    font-size: small;
+}
+
+
